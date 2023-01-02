@@ -1,1 +1,2 @@
 # Quodcast
+Q-time + ΔV
